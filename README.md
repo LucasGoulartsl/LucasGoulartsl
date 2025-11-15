@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">- Formado em Desenvolvimento de Sistemas 🎓<br>- Cursando Sistemas de Informação 📚</p>
+<p align="left">Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas pelo Colégio Técnico Estadual Bento Quirino e estudante de Sistemas de Informação na USF Campinas. 
+
+Tenho experiência como desenvolvedor Full Stack, com habilidades em:
+ •Linguagens e frameworks: C#, ASP .NET MVC, JavaScript, TypeScript e React
+ •Banco de dados: SQLServer e MongoDb
+ •Versionamento: Git, GitHub e Azure DevOps</p>
 
 ###
 
